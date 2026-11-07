@@ -26,7 +26,7 @@ Selama kegiatan workshop, materi yang disampaikan terbagi menjadi 2 pilar utama:
 * **Manajemen Perubahan Kode (Git & GitHub):**
   * Pemahaman fungsi **Git** sebagai *Version Control System* (VCS) lokal untuk melacak setiap riwayat perubahan file proyek.
   * Pemahaman **GitHub** sebagai platform cloud berbasis web untuk menyimpan repository online dan berkolaborasi.
-  * Penguasaan alur kerja Git dasar (*Git Workflow*): *Working Directory* $\rightarrow$ *Staging Area* (`git add`) $\rightarrow$ *Local Repository* (`git commit`) $\rightarrow$ *Remote Repository* (`git push`).
+  * Penguasaan alur kerja Git dasar (*Git Workflow*): *Working Directory* - *Staging Area* (`git add`) - *Local Repository* (`git commit`) - *Remote Repository* (`git push`).
 
 ### 2. Poin-Poin Penting & Pengetahuan Baru
 * **Context is Key:** Semakin detail konteks, batasan, serta aturan yang diberikan dalam sebuah *prompt* AI, semakin akurat kode program yang dihasilkan tanpa adanya *hallucination* atau pustaka yang tidak diperlukan.
